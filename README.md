@@ -40,8 +40,8 @@ Python | FastAPI | Java | Spring | eGovFramework
 ---
 
 ## 📊 GitHub Stats
-![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoo-park&show_icons=true&title_color=FFB2AE&icon_color=FFB2AE&text_color=333&bg_color=fff9f9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo-park&layout=compact&title_color=FFB2AE&text_color=333&bg_color=fff9f9)
+![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsus2k&show_icons=true&title_color=FFB2AE&icon_color=FFB2AE&text_color=333&bg_color=fff9f9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thsus2&layout=compact&title_color=FFB2AE&text_color=333&bg_color=fff9f9)
 
 ---
 
